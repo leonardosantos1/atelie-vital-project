@@ -7,7 +7,9 @@ export function WhatsappButton() {
         <button className="fixed bottom-4 right-4  flex items-center justify-center gap-2 rounded-full bg-green-600 p-4 font-playfair text-white transition hover:scale-110">
           <FaWhatsapp className="h-8 w-8 text-white" />
 
-          <span>Entre em contato com a gente!</span>
+          <span className="hidden md:inline-block lg:inline-block">
+            Entre em contato com a gente!
+          </span>
         </button>
       </a>
     </div>
