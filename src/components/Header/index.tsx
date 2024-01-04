@@ -8,7 +8,7 @@ export function Header() {
     <header className="fixed z-10 w-full bg-white shadow-md">
       <nav className="mx-auto flex w-full justify-center">
         <div className="flex items-start justify-center md:mr-12 lg:mr-12">
-          <h1 className="my-auto font-ephesis text-4xl md:text-4xl lg:text-5xl">
+          <h1 className="my-auto font-ephesis text-4xl text-zinc-700 md:text-4xl lg:text-5xl">
             Ateliê Vital
           </h1>
         </div>

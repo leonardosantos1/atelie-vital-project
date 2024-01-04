@@ -28,7 +28,7 @@ export function ScheduleOnWhatsapp() {
         <h1 className="font-dancing text-3xl text-white lg:text-5xl">
           Agende nossos Serviços pelo Whatsapp
         </h1>
-        <span className="font-dancing text-xl underline decoration-1 underline-offset-2 lg:text-2xl">
+        <span className="font-dancing text-xl text-zinc-700 underline decoration-1 underline-offset-2 lg:text-2xl">
           Veja datas e horários disponivéis para nossos serviços
         </span>
       </div>

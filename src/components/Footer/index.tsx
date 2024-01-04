@@ -6,7 +6,7 @@ export function Footer() {
     <div className="flex w-full bg-gradient-to-b from-bege-200 to-bege-400 p-4 lg:p-12">
       <div className="mx-auto flex w-full max-w-[1180px] flex-col gap-4 lg:flex-row lg:p-4">
         <div className="flex flex-col gap-1">
-          <span className="w-48 bg-white text-center font-ephesis text-4xl">
+          <span className="w-48 bg-white text-center font-ephesis text-4xl text-zinc-700">
             Ateliê Vital
           </span>
           {/* <span className="font-playfair text-zinc-900">
