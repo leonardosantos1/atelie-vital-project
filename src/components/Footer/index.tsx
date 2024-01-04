@@ -38,7 +38,7 @@ export function Footer() {
           ></iframe>
         </div>
         <div className="mb-20 flex w-full flex-col gap-4 lg:items-center">
-          <h1 className="w-48 bg-white px-2 font-ephesis text-3xl font-semibold text-zinc-700">
+          <h1 className="w-48 bg-white px-2 font-ephesis text-3xl text-zinc-700">
             Atendimento:
           </h1>
           <div className="flex items-center justify-start gap-2">
