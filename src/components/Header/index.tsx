@@ -24,7 +24,7 @@ export function Header() {
             href="https://www.instagram.com/xxulia.xxu/"
             target="_blank"
             rel="noreferrer"
-            className="my-2 ml-8 flex h-16 w-16 items-center justify-center rounded-full transition hover:scale-105 hover:opacity-80"
+            className="my-2 ml-8 flex h-12 w-12 items-center justify-center rounded-full transition hover:scale-105 hover:opacity-80"
           >
             <Instagram className="h-3/5 w-3/5 text-zinc-700 " />
           </a>
@@ -34,7 +34,7 @@ export function Header() {
             href={`https://wa.me/5519999098377/`}
             target="_blank"
             rel="noreferrer"
-            className=" my-2 ml-8 flex h-16 w-16  items-center  justify-center rounded-full transition hover:scale-105 hover:opacity-80"
+            className=" my-2 ml-8 flex h-12 w-12 items-center  justify-center rounded-full transition hover:scale-105 hover:opacity-80"
           >
             <FaWhatsapp className=" h-3/5 w-3/5 text-zinc-700" />
           </a>
