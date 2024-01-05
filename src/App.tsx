@@ -87,7 +87,7 @@ export function App() {
       <main className="flex  h-full w-full flex-col items-center bg-bege-50">
         <div className="flex w-full flex-col items-center bg-white">
           <div className="flex items-center mx-auto">
-          <h1 className="flex mt-4 whitespace-nowrap w-full rounded-lg bg-bege-200 px-20 font-playfair text-lg text-zinc-700 underline decoration-1 underline-offset-2 md:text-2xl lg:text-3xl">
+          <h1 className="flex mt-4 whitespace-nowrap w-full rounded-lg bg-bege-200 px-4 font-playfair text-lg text-zinc-700 underline decoration-1 underline-offset-2 md:text-2xl lg:text-3xl">
             Alguns dos meus trabalhos recentes!
           </h1>
           </div>
