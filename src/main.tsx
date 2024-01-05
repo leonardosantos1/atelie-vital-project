@@ -5,6 +5,7 @@ import './index.css'
 import { Header } from './components/Header/index.tsx'
 import { WhatsappButton } from './components/WhatsappButton.tsx'
 
+
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     <Header />

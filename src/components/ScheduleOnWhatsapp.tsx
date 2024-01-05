@@ -34,7 +34,7 @@ export function ScheduleOnWhatsapp() {
       </div>
 
       <a
-        href="https://wa.me/5519983185173/"
+        href={`https://wa.me/${process.env.REACT_APP_TELEPHONE}/`}
         target="_blank"
         rel="noreferrer"
         className="flex h-16 w-16 items-center justify-center rounded-full bg-green-600 p-1  transition hover:scale-105 hover:opacity-80 lg:h-20 lg:w-20"

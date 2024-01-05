@@ -7,7 +7,7 @@ export function Footer() {
       <div className="mx-auto flex w-full max-w-[1180px] flex-col gap-4 lg:flex-row lg:p-4">
         <div className="flex flex-col gap-1">
           <span className="w-48 bg-white text-center font-ephesis text-4xl text-zinc-700">
-            Ateliê Vital
+            Ateliê Julia Vital
           </span>
           {/* <span className="font-playfair text-zinc-900">
             R. Flôr de Ipê, 376
@@ -44,13 +44,13 @@ export function Footer() {
           <div className="flex items-center justify-start gap-2">
             <BsTelephone className="h-4 w-4 text-zinc-700" />
             <span className="text-md font-garamond font-semibold text-zinc-700">
-              (19) 98318712
+              (19) 99909-8377
             </span>
           </div>
           <div className="flex items-center justify-start gap-2">
             <FaWhatsapp className="h-4 w-4 text-zinc-700" />
             <span className="text-md font-garamond font-semibold text-zinc-700">
-              (19) 98318712
+              (19) 99909-8377
             </span>
           </div>
         </div>
