@@ -19,7 +19,7 @@ export function Header() {
           <button className="p-4">Contato</button>
           <button className="p-4">Sobre</button>
         </div>
-        <div>
+        <div className="my-auto">
           <a
             href="https://www.instagram.com/xxulia.xxu/"
             target="_blank"
@@ -29,7 +29,7 @@ export function Header() {
             <Instagram className="h-3/5 w-3/5 text-zinc-700 " />
           </a>
         </div>
-        <div>
+        <div className="my-auto">
           <a
             href={`https://wa.me/5519999098377/`}
             target="_blank"
