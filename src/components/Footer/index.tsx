@@ -30,8 +30,8 @@ export function Footer() {
         <div className="flex w-1/2 flex-col gap-4 md:hidden lg:hidden">
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d920.036800476765!2d-46.897956430364076!3d-22.72276946169697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c8de873cee4a81%3A0xb59df7a3084b973b!2sR.%20Fl%C3%B4r%20de%20Ip%C3%AA%2C%20376%2C%20Pedreira%20-%20SP%2C%2013920-000!5e0!3m2!1spt-BR!2sbr!4v1701948101038!5m2!1spt-BR!2sbr"
-            width="340"
-            height="150"
+            width="320"
+            height="200"
             style={{ border: 0 }}
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
