@@ -31,7 +31,7 @@ export function Header() {
         </div>
         <div>
           <a
-            href={`https://wa.me/${process.env.REACT_APP_TELEPHONE}/`}
+            href={`https://wa.me/5519999098377/`}
             target="_blank"
             rel="noreferrer"
             className=" my-2 ml-8 flex h-16 w-16  items-center  justify-center rounded-full transition hover:scale-105 hover:opacity-80"
