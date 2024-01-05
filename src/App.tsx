@@ -97,7 +97,7 @@ export function App() {
         </div>
         <About />
         <div className="mt-12 flex h-full w-full flex-col items-center bg-gradient-to-b from-bege-200 py-12">
-          <h1 className="mb-4 border-b border-bege-400 font-dancing text-4xl font-semibold text-white lg:border-none lg:text-6xl">
+          <h1 className="mb-4 border-b border-bege-400 font-dancing text-5xl font-semibold text-white lg:border-none lg:text-6xl">
             <span className="hidden text-zinc-700 lg:inline">--------- </span>{' '}
             Serviços de Tranças
             <span className="hidden text-zinc-700 lg:inline"> ---------</span>
