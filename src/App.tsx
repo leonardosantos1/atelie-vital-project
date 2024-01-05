@@ -140,7 +140,7 @@ export function App() {
         <div className="mb-8 flex w-full flex-col items-start py-12 lg:max-w-[1180px]">
           <div className="mx-2 my-8 flex flex-col">
             <h1 className="text-left font-playfair text-2xl text-zinc-900">
-              Instagram do Ateliê Vital
+              Instagram do Ateliê Julia Vital
             </h1>
             <span className="bg-bege-200 font-dancing text-lg text-zinc-900 underline decoration-1 underline-offset-2">
               Acompanhe as últimas postagens do nosso Instagram!
