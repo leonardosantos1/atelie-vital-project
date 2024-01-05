@@ -6,7 +6,7 @@ export function Footer() {
     <div className="flex w-full bg-gradient-to-b from-bege-200 to-bege-400 p-4 lg:p-12">
       <div className="mx-auto flex w-full max-w-[1180px] flex-col gap-4 lg:flex-row lg:p-4">
         <div className="flex flex-col gap-1">
-          <span className="w-48 bg-white text-center font-ephesis text-4xl text-zinc-700">
+          <span className="pl-2 w-56 bg-white text-left font-ephesis text-3xl text-zinc-700">
             Ateliê Julia Vital
           </span>
           {/* <span className="font-playfair text-zinc-900">
@@ -38,7 +38,7 @@ export function Footer() {
           ></iframe>
         </div>
         <div className="mb-20 flex w-full flex-col gap-4 lg:items-center">
-          <h1 className="w-48 bg-white px-2 font-ephesis text-3xl text-zinc-700">
+          <h1 className="w-56 bg-white px-2 font-ephesis text-3xl text-zinc-700">
             Atendimento:
           </h1>
           <div className="flex items-center justify-start gap-2">

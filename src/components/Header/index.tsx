@@ -9,7 +9,7 @@ export function Header() {
       <nav className="mx-auto flex w-full justify-center">
         <div className="flex items-start justify-center md:mr-12 lg:mr-12">
           <h1 className="my-auto font-ephesis text-4xl text-zinc-700 md:text-4xl lg:text-5xl">
-            Ateliê Vital
+            Ateliê Julia Vital
           </h1>
         </div>
         <div className=" my-auto hidden font-playfair font-semibold text-zinc-900 md:inline lg:inline">

@@ -27,20 +27,20 @@ export function About() {
             transition={{ duration: 1.0 }}
           >
             <h1 className="my-4 font-playfair text-3xl text-zinc-800">
-              Ateliê Vital
+              Ateliê Julia Vital
             </h1>
             <p className="text-justify font-playfair text-lg font-bold text-zinc-900 md:hidden lg:hidden">
-              Bem-vindo ao Ateliê Vital, onde tranças ganham vida e o salão se
+              Bem-vindo ao Ateliê Julia Vital, onde tranças ganham vida e o salão se
               transforma em um santuário de beleza
             </p>
             <p className="hidden text-justify font-playfair text-lg font-bold text-zinc-900 md:inline-block lg:inline-block">
-              Bem-vindo ao Ateliê Vital, onde tranças ganham vida e o salão se
+              Bem-vindo ao Ateliê Julia Vital, onde tranças ganham vida e o salão se
               transforma em um santuário de beleza. Neste espaço encantador,
               nossos especialistas combinam habilidade e criatividade para criar
               tranças que contam histórias e oferecem serviços de salão que
               elevam a autoestima. Em um ambiente inspirador, comprometemo-nos
               com a qualidade, proporcionando uma experiência única onde a arte
-              encontra a beleza. Descubra o encanto do Ateliê Vital, onde cada
+              encontra a beleza. Descubra o encanto do Ateliê Julia Vital, onde cada
               visita é uma jornada de transformação e cuidado pessoal.
             </p>
           </motion.div>
