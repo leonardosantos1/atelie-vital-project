@@ -15,7 +15,7 @@ export function Card({ title, text, imgBraid }: CardProps) {
 
     var whatsappLink = "https://wa.me/" + phoneNumber + "?text=" + message;
 
-    window.location.href = whatsappLink;
+    window.open(whatsappLink, '_blank');
   }
 
   return (
