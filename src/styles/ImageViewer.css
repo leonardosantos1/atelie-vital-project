@@ -1,0 +1,16 @@
+.image-viewer {
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.image-viewer.fullscreen {
+  @apply fixed top-0 left-0 w-full h-full bg-black bg-opacity-80 flex items-center justify-center z-50;
+}
+
+.image-viewer.fullscreen img {
+  @apply max-w-full max-h-full;
+}
+
+.image-viewer.notfullscreen img {
+    @apply sm:w-52 md:h-52 md:w-52  lg:w-60 lg:h-56 rounded-md object-cover;
+  }
