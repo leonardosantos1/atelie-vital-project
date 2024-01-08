@@ -9,8 +9,19 @@ interface ImageViewerProps{
 export function ImageViewer( {imageUrl}:ImageViewerProps ) {
   const [isFullscreen, setIsFullscreen] = useState(false);
 
-  function toggleFullscreen ()  {
+  function toggleFullscreen () {
     setIsFullscreen(!isFullscreen);
+    toggleBodyOverflow();
+  };
+
+
+  function toggleBodyOverflow () {
+    const body = document.body;
+    if (isFullscreen) {
+      body.classList.remove('overflow-hidden');
+    } else {
+      body.classList.add('overflow-hidden');
+    }
   };
 
   return (

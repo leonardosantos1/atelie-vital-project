@@ -12,13 +12,13 @@ export function Header() {
             Ateliê Julia Vital
           </h1>
         </div>
-        <div className=" my-auto hidden font-playfair font-semibold text-zinc-900 md:inline lg:inline">
+        {/* <div className=" my-auto hidden font-playfair font-semibold text-zinc-900 md:inline lg:inline">
           <button className="p-4">Home</button>
           <button className="p-4">Serviços</button>
           <button className="p-4">Agenda</button>
           <button className="p-4">Contato</button>
           <button className="p-4">Sobre</button>
-        </div>
+        </div> */}
         <div className="my-auto">
           <a
             href="https://www.instagram.com/xxulia.xxu/"
