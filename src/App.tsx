@@ -17,7 +17,7 @@ import crochetBraid from "../public/crochet-braid.jpeg"
 import butterflyBraid from "../public/butterfly-braids.jpeg"
 import boxBraid from "../public/box-braid.jpeg"
 import { WhatsappButton } from './components/WhatsappButton'
-import { Footer } from './components/Footer'
+// import { Footer } from './components/Footer'
 import { motion, useAnimation } from 'framer-motion'
 import { useEffect } from 'react'
 import { useInView } from 'react-intersection-observer'
