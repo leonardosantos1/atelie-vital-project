@@ -176,7 +176,7 @@ export function App() {
           <PostInstagram />
         </div>
         <WhatsappButton />
-        <Footer />
+        {/* <Footer /> */}
       </main>
     </div>
   )

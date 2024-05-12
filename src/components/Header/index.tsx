@@ -21,7 +21,7 @@ export function Header() {
         </div> */}
         <div className="my-auto">
           <a
-            href="https://www.instagram.com/xxulia.xxu/"
+            href="https://www.instagram.com/atelie.juliavital/"
             target="_blank"
             rel="noreferrer"
             className="my-2 ml-8 flex h-12 w-12 items-center justify-center rounded-full transition hover:scale-105 hover:opacity-80"
